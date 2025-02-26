@@ -1,14 +1,14 @@
-🔍 Project Overview
+# **🔍 Project Overview**
 
 This project focuses on identifying security flaws in a test web application using OWASP ZAP.
-📌 Outcomes
+## **📌 Outcomes**
 -Practical understanding of OWASP top 10 vulnerabilities
 
 -Penetration Testing
 
 -Ethical hacking
 
-🛠 Tools Used
+## **🛠 Tools Used**
 
 -OWASP ZAP 
 
@@ -16,7 +16,7 @@ This project focuses on identifying security flaws in a test web application usi
 
 -Docker
 
-📢 Connect
+## **📢 Connect**
 
 If you find this project useful, feel free to star ⭐ this repo and connect with me on LinkedIn.
 
