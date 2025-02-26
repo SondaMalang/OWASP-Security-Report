@@ -18,6 +18,11 @@ This project focuses on identifying security flaws in a test web application usi
 
 -Docker
 
+## **📂 Deliverables**
+
+A Security Report pdf with identified vulnerabilities, risk assessment and recommended fixes.
+[Download the example PDF](docs/example.pdf)
+
 ## **📢 Connect**
 If you find this project useful, feel free to star ⭐ this repo and connect with me on LinkedIn.
 
